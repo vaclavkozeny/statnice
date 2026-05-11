@@ -1,0 +1,4 @@
+baseURL = 'https://vaclavkozeny.github.io/statnice'
+locale = 'en-us'
+title = 'Státnice'
+theme = 'hugo-book'
