@@ -12,7 +12,7 @@ title: "Úvodní stránka"
 7. Fourierovy řady. Diskrétní Fourierova transformace, její použití a interpretace. Spektrum signálu, FFT. Číslicové filtry FIR a IIR. Filtrace v čase nebo prostoru
 8. Vzorkování, kvantování. Vzorkovací teorém. Aliasing. Práce se zvukem na počítači
 ## Algoritmy a programování
-9. [Číselné soustavy a převody mezi nimi. Způsoby kódování čísel s pevnou a s pohyblivou řádovou tečkou. Kódování záporných čísel](/docs/algoritmy/9/) ✅
+9. [Číselné soustavy a převody mezi nimi. Způsoby kódování čísel s pevnou a s pohyblivou řádovou tečkou. Kódování záporných čísel](docs/algoritmy/9/) ✅
 10. Programátorský model procesoru, instrukce, instrukční soubor, symbolická adresa, operace v registrech, s pamětí, I/O operace. Sekvence instrukcí, algoritmizace základních úloh v jazyku symbolických adres. Časování programu, podprogramy, přerušení
 11. Jazyk C: základní datové typy a strukturovaný datový typ. Pole a ukazatele, dynamická alokace paměti
 12. Algoritmy pro vyhledávání a řazení, složitost algoritmů
@@ -32,11 +32,11 @@ title: "Úvodní stránka"
 25. Webové aplikace – charakteristika programování na straně serveru a klienta. Základy jazyka JavaScript. DOM a přístup k prvkům stránky. 
 26. Jazyk PHP. Problematika uchovávání stavových informací, cookies.
 ## Databázové systémy
-27. [Konceptuální návrh relačních databází, základní konstrukty, ER diagram, kardinalita, parcialita, závislost](/docs/databaze/27/) ✅
-28. [Normalizace, normální formy, funkční závislosti, aktualizační anomálie](/docs/databaze/28/) ✅
-29. [Relační model, základní konstrukty, realizace vztahů v relačním modelu, integritní omezení](/docs/databaze/29/) ✅
-30. [CRUD operace, SQL DDL, SQL DML, SQL dotazy - selekce, projekce, agregační funkce, množinové operace, typy spojení, vnořené dotazy](/docs/databaze/30/) ✅
-31. [Spouště a uložené procedury](/docs/databaze/31/) ✅
+27. [Konceptuální návrh relačních databází, základní konstrukty, ER diagram, kardinalita, parcialita, závislost](docs/databaze/27/) ✅
+28. [Normalizace, normální formy, funkční závislosti, aktualizační anomálie](docs/databaze/28/) ✅
+29. [Relační model, základní konstrukty, realizace vztahů v relačním modelu, integritní omezení](docs/databaze/29/) ✅
+30. [CRUD operace, SQL DDL, SQL DML, SQL dotazy - selekce, projekce, agregační funkce, množinové operace, typy spojení, vnořené dotazy](docs/databaze/30/) ✅
+31. [Spouště a uložené procedury](docs/databaze/31/) ✅
 32. Pohledy, přístupová práva, transakce - princip, vlastnosti
 33. Indexování a optimalizace dotazů
 ## Hardware a elektronika 
