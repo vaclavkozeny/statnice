@@ -25,7 +25,7 @@ title: "Úvodní stránka"
 19. Správa procesů v operačním systému, vztah programu a procesu, životní cyklus procesu.
 ## Počítačové sítě a Internet
 20. [Principy vrstvené architektury počítačových sítí, referenční model OSI. Charakteristika lokálních počítačových sítí](docs/site/20/) ✅
-21. Technologie Ethernet, její principy a vývoj, algoritmus CSMA/CD. Bezdrátové lokální sítě standardu IEEE 802.11
+21. [Technologie Ethernet, její principy a vývoj, algoritmus CSMA/CD. Bezdrátové lokální sítě standardu IEEE 802.11](docs/site/21/) ✅
 22. Základní principy činnosti protokolů sítě Internet – IP, TCP, UDP. Domain Name System, jeho role a činnost, DNS servery, postup řešení dotazu, reverzní DNS
 23. Základní principy WWW, HTTP, HTML. Jazyk (X)HTML, jeho charakteristika, možnosti a omezení
 24. CSS – vlastnosti, hodnoty, dědění, kaskádování. Blokový model CSS
