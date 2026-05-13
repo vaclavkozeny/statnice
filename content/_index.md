@@ -24,7 +24,7 @@ title: "Úvodní stránka"
 18. Operační systém, vysvětlení pojmu, typy, poskytované funkce
 19. Správa procesů v operačním systému, vztah programu a procesu, životní cyklus procesu.
 ## Počítačové sítě a Internet
-20. Principy vrstvené architektury počítačových sítí, referenční model OSI. Charakteristika lokálních počítačových sítí
+20. [Principy vrstvené architektury počítačových sítí, referenční model OSI. Charakteristika lokálních počítačových sítí](docs/site/20/) ✅
 21. Technologie Ethernet, její principy a vývoj, algoritmus CSMA/CD. Bezdrátové lokální sítě standardu IEEE 802.11
 22. Základní principy činnosti protokolů sítě Internet – IP, TCP, UDP. Domain Name System, jeho role a činnost, DNS servery, postup řešení dotazu, reverzní DNS
 23. Základní principy WWW, HTTP, HTML. Jazyk (X)HTML, jeho charakteristika, možnosti a omezení
@@ -37,8 +37,8 @@ title: "Úvodní stránka"
 29. [Relační model, základní konstrukty, realizace vztahů v relačním modelu, integritní omezení](docs/databaze/29/) ✅
 30. [CRUD operace, SQL DDL, SQL DML, SQL dotazy - selekce, projekce, agregační funkce, množinové operace, typy spojení, vnořené dotazy](docs/databaze/30/) ✅
 31. [Spouště a uložené procedury](docs/databaze/31/) ✅
-32. Pohledy, přístupová práva, transakce - princip, vlastnosti
-33. Indexování a optimalizace dotazů
+32. [Pohledy, přístupová práva, transakce - princip, vlastnosti](docs/databaze/32/) ✅
+33. [Indexování a optimalizace dotazů](docs/databaze/33/) ✅
 ## Hardware a elektronika 
 34. Kombinační logické obvody (jejich charakteristika, možnosti realizace pomocí logických hradel, multiplexorů a dekodérů
 35. Sekvenční obvody (základní vlastnosti a typy klopných obvodů, registry, posuvné registry, čítače, návrh automatů typu Mealy a Moore)
