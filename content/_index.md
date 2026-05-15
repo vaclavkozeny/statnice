@@ -28,9 +28,9 @@ title: "Úvodní stránka"
 21. [Technologie Ethernet, její principy a vývoj, algoritmus CSMA/CD. Bezdrátové lokální sítě standardu IEEE 802.11](docs/site/21/) ✅
 22. [Základní principy činnosti protokolů sítě Internet – IP, TCP, UDP. Domain Name System, jeho role a činnost, DNS servery, postup řešení dotazu, reverzní DNS](docs/site/22/) ✅
 23. [Základní principy WWW, HTTP, HTML. Jazyk (X)HTML, jeho charakteristika, možnosti a omezení](docs/site/23/) ✅
-24. CSS – vlastnosti, hodnoty, dědění, kaskádování. Blokový model CSS
-25. Webové aplikace – charakteristika programování na straně serveru a klienta. Základy jazyka JavaScript. DOM a přístup k prvkům stránky. 
-26. Jazyk PHP. Problematika uchovávání stavových informací, cookies.
+24. [CSS – vlastnosti, hodnoty, dědění, kaskádování. Blokový model CSS](docs/site/24/) ✅
+25. [Webové aplikace – charakteristika programování na straně serveru a klienta. Základy jazyka JavaScript. DOM a přístup k prvkům stránky.](docs/site/25/) ✅
+26. [Jazyk PHP. Problematika uchovávání stavových informací, cookies.](docs/site/26/) ✅
 ## Databázové systémy
 27. [Konceptuální návrh relačních databází, základní konstrukty, ER diagram, kardinalita, parcialita, závislost](docs/databaze/27/) ✅
 28. [Normalizace, normální formy, funkční závislosti, aktualizační anomálie](docs/databaze/28/) ✅
